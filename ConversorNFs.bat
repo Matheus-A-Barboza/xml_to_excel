@@ -2,5 +2,5 @@ pip install openpyxl
 pip install pandas
 pip install xmltodict
 
-python conversorNf.py
+python main.py
 pause
